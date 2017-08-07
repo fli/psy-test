@@ -1,0 +1,13 @@
+{
+  "name": "wasi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "~4.11.0",
+    "pg": "^4.2.0"
+  }
+}
